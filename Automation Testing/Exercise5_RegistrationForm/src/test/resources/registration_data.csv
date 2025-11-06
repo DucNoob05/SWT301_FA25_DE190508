@@ -1,0 +1,5 @@
+scenario,firstName,lastName,email,gender,mobile,hobby,address
+FULL_VALID,John,Doe,john.doe@example.com,Male,0123456789,Reading,Ho Chi Minh City
+FULL_VALID,Anna,Nguyen,anna.nguyen@example.com,Female,0987654321,Sports,Hanoi
+REQUIRED_ONLY,Minh,Tran,,Male,0912345678,,
+REQUIRED_ONLY,Lan,Pham,,Female,0901234567,,
